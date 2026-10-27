@@ -35,17 +35,6 @@ Assets/
 └── Scenes/
 ```
 
-## 🗺️ Yol Haritası
-
-- [x] Izgara tabanlı seviye sistemi
-- [x] Buz kaydırma mekaniği
-- [x] Kazanma kontrolü ve ekran mesajı
-- [ ] **BFS çözücü:** seviyenin çözülebilirliğini ve en kısa çözümü hesaplama
-- [ ] **Prosedürel seviye üretimi:** yalnızca çözülebilir seviyeleri tutma, zorluğu çözüm uzunluğuna göre ayarlama
-- [ ] Hamle sayısına göre ⭐⭐⭐ puanlama
-- [ ] Menü, seviye seçimi ve ilerleme kaydı
-- [ ] Mobil dokunmatik kontroller (swipe)
-- [ ] Google Play'de yayın
 
 ## 🚀 Projeyi Çalıştırma
 
